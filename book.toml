@@ -4,3 +4,4 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Seguros wiki"
+description = "Create book from markdown files. Like Gitbook but implemented in Rust"
